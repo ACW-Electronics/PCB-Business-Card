@@ -2,7 +2,7 @@
 Making an NFC PCB Business Card
 
 NOTE FOR REVIEWER:
-I do not have firmware since this is going to be written for nfc via my phone. It will link to my personal website, andrewcwong.com, but there is no firmware I am writing. Also, the actual BOM is the one called PCB Busines Card-bom.csv. The other file was for JLCPCB.
+I do not have firmware since this is going to be written for nfc via my phone. It will link to my personal website, andrewcwong.com, but there is no firmware I am writing. Also, the actual BOM is the one called PCB Busines Card-bom.csv. The other file was for JLCPCB. I'm doing PCBA since it'd be cheaper than buying the components individually and soldering them on. Also, sorry for the file dump, not sure what the autochecker was missing so I threw on a bunch of files till it worked
 
 I'm making this so that I have a flashier business card as an electrical engineering student that is memorable and let's me share my portfolio/resume.
 
