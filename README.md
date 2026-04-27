@@ -11,3 +11,8 @@ PCB Layout:
 
 3D Viewer:
 <img width="902" height="578" alt="Screenshot 2026-04-26 at 8 55 45 PM" src="https://github.com/user-attachments/assets/89754766-13ce-4d4a-8833-834de2ccc26e" />
+
+BOM:
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| PCBA | PCB with components from JLCPCB | 1 | $19.63 | [Link](https://cart.jlcpcb.com/shopcart/cart) | JLCPCB |
